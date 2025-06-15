@@ -1,0 +1,5 @@
+﻿  bank 1.cpp
+C:\Users\oula\OneDrive\المستندات\c 1\bank 1\bank 1\bank 1.cpp(26,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\oula\OneDrive\المستندات\c 1\bank 1\bank 1\bank 1.cpp(299): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\oula\OneDrive\المستندات\c 1\bank 1\bank 1\bank 1.cpp(330): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  bank 1.vcxproj -> C:\Users\oula\OneDrive\المستندات\c 1\bank 1\x64\Debug\bank 1.exe
